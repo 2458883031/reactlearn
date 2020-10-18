@@ -19,6 +19,9 @@ function App() {
           Learn React
         </a>
       </header>
+      <section>
+        <h2>刘文轩王八蛋</h2>
+      </section>
     </div>
   );
 }
